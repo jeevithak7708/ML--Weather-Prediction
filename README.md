@@ -136,7 +136,6 @@ for target in targets:
 <img width="1658" height="697" alt="Screenshot 2026-05-24 210020" src="https://github.com/user-attachments/assets/fa531016-d4de-4bc2-bb66-403a4f931c75" />
 
 
-
-
-
 ## Result:
+
+Thus, a program to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data using Random Forest Algorithm executed successfully.
